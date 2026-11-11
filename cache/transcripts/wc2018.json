@@ -1,0 +1,152 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.6,
+   "text": " Here is the Pannett's ultimate game, the final of the 21st football World Cup.",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 6.6,
+   "end": 14.67,
+   "text": " Flicking by Grisman, I've flicked on!",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 14.67,
+   "end": 19.67,
+   "text": " Indeed, Croatia's centre-forward, got the touch, not mattered.",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 19.67,
+   "end": 25.01,
+   "text": " Faded it in, Versalco appeared round the back.",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 25.01,
+   "end": 29.01,
+   "text": " Manjukic can compete with Pogba, came down for Vida,",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 29.01,
+   "end": 36.82,
+   "text": " and then perisaged World War, has screamed that in.",
+   "no_speech_prob": 0.23811344802379608,
+   "avg_logprob": -0.5304048901512509
+  },
+  {
+   "start": 36.82,
+   "end": 43.51,
+   "text": " In by Grisman and to the French, a screaming handball,",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 43.51,
+   "end": 47.51,
+   "text": " and the referee is choosing to look himself.",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 47.51,
+   "end": 49.51,
+   "text": " What a call to have to make.",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 49.51,
+   "end": 56.14,
+   "text": " He's given a penalty, a penalty for France in the World Cup final.",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 56.14,
+   "end": 58.14,
+   "text": " On to one Grisman.",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 58.14,
+   "end": 67.8,
+   "text": " France have their lead back, a goal of its age, of its generation.",
+   "no_speech_prob": 0.2744339406490326,
+   "avg_logprob": -0.23340063866447
+  },
+  {
+   "start": 67.8,
+   "end": 83.12,
+   "text": " Bombape, Grisman, Pogba, Pogba, possibly now the...",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 83.12,
+   "end": 85.12,
+   "text": " Here's Bombape!",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 85.12,
+   "end": 93.59,
+   "text": " Oh, my first teenage World Cup final goal, since Pele himself.",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 93.59,
+   "end": 98.48,
+   "text": " Oh, Larise was caught on it by Manjukic.",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 98.48,
+   "end": 100.48,
+   "text": " Larise with a moment of madness.",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 100.48,
+   "end": 103.48,
+   "text": " Manjukic perhaps a moment of redemption.",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 103.48,
+   "end": 105.48,
+   "text": " It is France.",
+   "no_speech_prob": 0.2880287766456604,
+   "avg_logprob": -0.2740943649763702
+  },
+  {
+   "start": 105.48,
+   "end": 110.48,
+   "text": " It will be some can-can on the Champs-Elysées tonight.",
+   "no_speech_prob": 0.224979430437088,
+   "avg_logprob": -0.3113562305768331
+  },
+  {
+   "start": 110.48,
+   "end": 114.48,
+   "text": " France are the champions of the world.",
+   "no_speech_prob": 0.224979430437088,
+   "avg_logprob": -0.3113562305768331
+  }
+ ]
+}

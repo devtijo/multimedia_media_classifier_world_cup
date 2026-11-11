@@ -1,0 +1,12 @@
+opencv-python
+librosa
+soundfile
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+faster-whisper   # text branch (optional but recommended)
+yt-dlp           # only for build_dataset.py downloads

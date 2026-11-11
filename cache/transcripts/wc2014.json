@@ -1,0 +1,180 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "start": 0.53,
+   "end": 11.43,
+   "text": " Well, that's a terrible back hitter into the path of Egwain, who should have opened the scoring in the World Cup.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 11.43,
+   "end": 13.43,
+   "text": " He's ahead.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 13.43,
+   "end": 19.43,
+   "text": " One side of Egwain had an age, who was three, four yards behind, Egwain.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 19.43,
+   "end": 22.43,
+   "text": " Messy.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 22.43,
+   "end": 25.43,
+   "text": " Now, away from Boise, look at the space here for LaVexy.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 25.43,
+   "end": 27.43,
+   "text": " LaVexy, Egwain!",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 27.43,
+   "end": 34.14,
+   "text": " Well, this will be tight.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 34.14,
+   "end": 35.14,
+   "text": " This will be really tight.",
+   "no_speech_prob": 0.4575590491294861,
+   "avg_logprob": -0.4972343289333841
+  },
+  {
+   "start": 35.14,
+   "end": 36.14,
+   "text": " Absolutely right.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 36.14,
+   "end": 39.14,
+   "text": " Brilliant from the Italian official.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 39.14,
+   "end": 40.14,
+   "text": " Norman's cranking it up.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 40.14,
+   "end": 43.14,
+   "text": " Close with the take against the post.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 43.14,
+   "end": 48.14,
+   "text": " And gathered.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 48.14,
+   "end": 53.14,
+   "text": " But once it came back off the post and struck a German body.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 53.14,
+   "end": 55.14,
+   "text": " Paris.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 55.14,
+   "end": 59.29,
+   "text": " Bilia.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 59.29,
+   "end": 61.29,
+   "text": " We'll throw here for LaVexy.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 61.29,
+   "end": 64.29,
+   "text": " Flagstay down and Messy.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 64.29,
+   "end": 66.29,
+   "text": " Has Robert Pagnoia.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 66.29,
+   "end": 69.29,
+   "text": " But their water target area.",
+   "no_speech_prob": 0.34548452496528625,
+   "avg_logprob": -0.3740578016031136
+  },
+  {
+   "start": 69.29,
+   "end": 71.29,
+   "text": " And his record.",
+   "no_speech_prob": 0.018830422312021255,
+   "avg_logprob": -0.3227717829378028
+  },
+  {
+   "start": 71.29,
+   "end": 77.89,
+   "text": " From 2002 to 2000.",
+   "no_speech_prob": 0.018830422312021255,
+   "avg_logprob": -0.3227717829378028
+  },
+  {
+   "start": 77.89,
+   "end": 82.99,
+   "text": " Germany, no major pride.",
+   "no_speech_prob": 0.018830422312021255,
+   "avg_logprob": -0.3227717829378028
+  },
+  {
+   "start": 82.99,
+   "end": 83.99,
+   "text": " Raho.",
+   "no_speech_prob": 0.018830422312021255,
+   "avg_logprob": -0.3227717829378028
+  },
+  {
+   "start": 83.99,
+   "end": 118.99,
+   "text": " The topstay of Rio de Janeiro.",
+   "no_speech_prob": 0.018830422312021255,
+   "avg_logprob": -0.3227717829378028
+  }
+ ]
+}

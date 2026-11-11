@@ -1,0 +1,555 @@
+{
+  "n_significant_fdr": 9,
+  "top_features": [
+    {
+      "feature": "voiced_ratio",
+      "modality": "Audio",
+      "epsilon2": 0.977,
+      "spearman_rho": 0.704,
+      "q_kruskal": 0.01
+    },
+    {
+      "feature": "colorfulness",
+      "modality": "Image",
+      "epsilon2": 0.722,
+      "spearman_rho": 0.853,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "green_ratio",
+      "modality": "Image",
+      "epsilon2": 0.65,
+      "spearman_rho": 0.801,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "saturation",
+      "modality": "Image",
+      "epsilon2": 0.622,
+      "spearman_rho": 0.734,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "dynamic_range_db",
+      "modality": "Audio",
+      "epsilon2": 0.593,
+      "spearman_rho": 0.339,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "pillarbox",
+      "modality": "Image",
+      "epsilon2": 0.578,
+      "spearman_rho": -0.776,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "flatness",
+      "modality": "Audio",
+      "epsilon2": 0.565,
+      "spearman_rho": 0.593,
+      "q_kruskal": 0.04
+    },
+    {
+      "feature": "hue_entropy",
+      "modality": "Image",
+      "epsilon2": 0.522,
+      "spearman_rho": 0.643,
+      "q_kruskal": 0.046
+    }
+  ],
+  "rule_tables": {
+    "color_mode": {
+      "chi2": 447.87,
+      "p": 1.0577644114307678e-91,
+      "distribution": {
+        "1930-38": {
+          "monochrome": 1.0,
+          "muted": 0.0,
+          "vivid": 0.0
+        },
+        "1950-66": {
+          "monochrome": 1.0,
+          "muted": 0.0,
+          "vivid": 0.0
+        },
+        "1970-86": {
+          "monochrome": 0.0,
+          "muted": 0.07,
+          "vivid": 0.93
+        },
+        "1990-2006": {
+          "monochrome": 0.0,
+          "muted": 0.03,
+          "vivid": 0.97
+        },
+        "2010-26": {
+          "monochrome": 0.0,
+          "muted": 0.01,
+          "vivid": 0.99
+        }
+      }
+    },
+    "texture": {
+      "chi2": 29.04,
+      "p": 0.0003115956474664722,
+      "distribution": {
+        "1930-38": {
+          "smooth": 0.38,
+          "medium": 0.36,
+          "detailed": 0.26
+        },
+        "1950-66": {
+          "smooth": 0.39,
+          "medium": 0.3,
+          "detailed": 0.32
+        },
+        "1970-86": {
+          "smooth": 0.49,
+          "medium": 0.22,
+          "detailed": 0.29
+        },
+        "1990-2006": {
+          "smooth": 0.36,
+          "medium": 0.4,
+          "detailed": 0.24
+        },
+        "2010-26": {
+          "smooth": 0.18,
+          "medium": 0.36,
+          "detailed": 0.45
+        }
+      }
+    },
+    "noise_level": {
+      "chi2": 142.69,
+      "p": 6.530867840718209e-27,
+      "distribution": {
+        "1930-38": {
+          "low": 0.62,
+          "medium": 0.26,
+          "high": 0.12
+        },
+        "1950-66": {
+          "low": 0.26,
+          "medium": 0.4,
+          "high": 0.35
+        },
+        "1970-86": {
+          "low": 0.38,
+          "medium": 0.44,
+          "high": 0.18
+        },
+        "1990-2006": {
+          "low": 0.02,
+          "medium": 0.16,
+          "high": 0.82
+        },
+        "2010-26": {
+          "low": 0.46,
+          "medium": 0.37,
+          "high": 0.17
+        }
+      }
+    },
+    "pitch_register": {
+      "chi2": 265.01,
+      "p": 1.0035343431757737e-49,
+      "distribution": {
+        "1930-38": {
+          "low": 0.02,
+          "mid": 0.0,
+          "high": 0.08,
+          "unvoiced": 0.9
+        },
+        "1950-66": {
+          "low": 0.0,
+          "mid": 0.02,
+          "high": 0.08,
+          "unvoiced": 0.9
+        },
+        "1970-86": {
+          "low": 0.03,
+          "mid": 0.01,
+          "high": 0.16,
+          "unvoiced": 0.79
+        },
+        "1990-2006": {
+          "low": 0.11,
+          "mid": 0.0,
+          "high": 0.11,
+          "unvoiced": 0.77
+        },
+        "2010-26": {
+          "low": 0.05,
+          "mid": 0.53,
+          "high": 0.3,
+          "unvoiced": 0.12
+        }
+      }
+    },
+    "speech": {
+      "chi2": 320.16,
+      "p": 2.095203444561256e-64,
+      "distribution": {
+        "1930-38": {
+          "silent": 1.0,
+          "sparse": 0.0,
+          "dense": 0.0
+        },
+        "1950-66": {
+          "silent": 1.0,
+          "sparse": 0.0,
+          "dense": 0.0
+        },
+        "1970-86": {
+          "silent": 1.0,
+          "sparse": 0.0,
+          "dense": 0.0
+        },
+        "1990-2006": {
+          "silent": 1.0,
+          "sparse": 0.0,
+          "dense": 0.0
+        },
+        "2010-26": {
+          "silent": 0.2,
+          "sparse": 0.17,
+          "dense": 0.63
+        }
+      }
+    }
+  },
+  "commentary_language": {
+    "1930": "en",
+    "1934": "en",
+    "1938": "en",
+    "1950": "en",
+    "1954": "en",
+    "1958": "en",
+    "1962": "en",
+    "1966": "en",
+    "1970": "en",
+    "1974": "en",
+    "1978": "en",
+    "1982": "en",
+    "1986": "en",
+    "1990": "en",
+    "1994": "en",
+    "1998": "en",
+    "2002": "en",
+    "2006": "en",
+    "2010": "en",
+    "2014": "en",
+    "2018": "en",
+    "2022": "en",
+    "2026": "en"
+  },
+  "text_group_type": "edition",
+  "keywords": {
+    "2010": [
+      "asker",
+      "fabric",
+      "netherlands",
+      "yester",
+      "surely",
+      "cassius",
+      "minutes",
+      "ramos",
+      "won",
+      "dutch"
+    ],
+    "2014": [
+      "janeiro",
+      "rio",
+      "topstay",
+      "egwain",
+      "lavexy",
+      "tight",
+      "post",
+      "german",
+      "messy",
+      "germany"
+    ],
+    "2018": [
+      "pogba",
+      "grisman",
+      "france",
+      "bombape",
+      "penalty",
+      "manjukic",
+      "possibly",
+      "generation",
+      "larise",
+      "lead"
+    ],
+    "2026": [
+      "williams",
+      "martinez",
+      "amy",
+      "ferritoris",
+      "marino",
+      "petro",
+      "gorgeous",
+      "turned",
+      "extra",
+      "corner"
+    ]
+  },
+  "speech_share_by_era": {
+    "1930-38": 0.0,
+    "1950-66": 0.0,
+    "1970-86": 0.0,
+    "1990-2006": 0.0,
+    "2010-26": 0.8
+  },
+  "models": [
+    {
+      "scenario": "all eras",
+      "model": "Baseline: random guess",
+      "modality": "Baseline",
+      "n_classes": 5,
+      "clip_accuracy": 0.164,
+      "balanced_accuracy": 0.134,
+      "macro_f1": 0.128,
+      "edition_accuracy": 0.174,
+      "clip_acc_ci_low": 0.111,
+      "clip_acc_ci_high": 0.224
+    },
+    {
+      "scenario": "all eras",
+      "model": "Image (logistic)",
+      "modality": "Image",
+      "n_classes": 5,
+      "clip_accuracy": 0.475,
+      "balanced_accuracy": 0.439,
+      "macro_f1": 0.444,
+      "edition_accuracy": 0.652,
+      "clip_acc_ci_low": 0.34,
+      "clip_acc_ci_high": 0.638
+    },
+    {
+      "scenario": "all eras",
+      "model": "Audio (logistic)",
+      "modality": "Audio",
+      "n_classes": 5,
+      "clip_accuracy": 0.486,
+      "balanced_accuracy": 0.409,
+      "macro_f1": 0.41,
+      "edition_accuracy": 0.478,
+      "clip_acc_ci_low": 0.287,
+      "clip_acc_ci_high": 0.666
+    },
+    {
+      "scenario": "all eras",
+      "model": "Audio w/o voice features (logistic)",
+      "modality": "Audio",
+      "n_classes": 5,
+      "clip_accuracy": 0.491,
+      "balanced_accuracy": 0.415,
+      "macro_f1": 0.416,
+      "edition_accuracy": 0.478,
+      "clip_acc_ci_low": 0.301,
+      "clip_acc_ci_high": 0.671
+    },
+    {
+      "scenario": "all eras",
+      "model": "Early fusion (logistic)",
+      "modality": "Fusion",
+      "n_classes": 5,
+      "clip_accuracy": 0.575,
+      "balanced_accuracy": 0.491,
+      "macro_f1": 0.493,
+      "edition_accuracy": 0.609,
+      "clip_acc_ci_low": 0.391,
+      "clip_acc_ci_high": 0.75
+    },
+    {
+      "scenario": "all eras",
+      "model": "Early fusion (random forest)",
+      "modality": "Fusion",
+      "n_classes": 5,
+      "clip_accuracy": 0.527,
+      "balanced_accuracy": 0.453,
+      "macro_f1": 0.442,
+      "edition_accuracy": 0.565,
+      "clip_acc_ci_low": 0.342,
+      "clip_acc_ci_high": 0.708
+    },
+    {
+      "scenario": "all eras",
+      "model": "Late fusion (avg. probabilities)",
+      "modality": "Fusion",
+      "n_classes": 5,
+      "clip_accuracy": 0.562,
+      "balanced_accuracy": 0.489,
+      "macro_f1": 0.485,
+      "edition_accuracy": 0.609,
+      "clip_acc_ci_low": 0.36,
+      "clip_acc_ci_high": 0.756
+    },
+    {
+      "scenario": "colour-era World Cups only",
+      "model": "Baseline: random guess",
+      "modality": "Baseline",
+      "n_classes": 3,
+      "clip_accuracy": 0.289,
+      "balanced_accuracy": 0.257,
+      "macro_f1": 0.256,
+      "edition_accuracy": 0.467,
+      "clip_acc_ci_low": 0.208,
+      "clip_acc_ci_high": 0.384
+    },
+    {
+      "scenario": "colour-era World Cups only",
+      "model": "Image (logistic)",
+      "modality": "Image",
+      "n_classes": 3,
+      "clip_accuracy": 0.509,
+      "balanced_accuracy": 0.475,
+      "macro_f1": 0.482,
+      "edition_accuracy": 0.667,
+      "clip_acc_ci_low": 0.329,
+      "clip_acc_ci_high": 0.766
+    },
+    {
+      "scenario": "colour-era World Cups only",
+      "model": "Audio (logistic)",
+      "modality": "Audio",
+      "n_classes": 3,
+      "clip_accuracy": 0.732,
+      "balanced_accuracy": 0.709,
+      "macro_f1": 0.707,
+      "edition_accuracy": 0.6,
+      "clip_acc_ci_low": 0.516,
+      "clip_acc_ci_high": 0.877
+    },
+    {
+      "scenario": "colour-era World Cups only",
+      "model": "Audio w/o voice features (logistic)",
+      "modality": "Audio",
+      "n_classes": 3,
+      "clip_accuracy": 0.721,
+      "balanced_accuracy": 0.701,
+      "macro_f1": 0.698,
+      "edition_accuracy": 0.6,
+      "clip_acc_ci_low": 0.507,
+      "clip_acc_ci_high": 0.867
+    },
+    {
+      "scenario": "colour-era World Cups only",
+      "model": "Early fusion (logistic)",
+      "modality": "Fusion",
+      "n_classes": 3,
+      "clip_accuracy": 0.735,
+      "balanced_accuracy": 0.679,
+      "macro_f1": 0.684,
+      "edition_accuracy": 0.667,
+      "clip_acc_ci_low": 0.502,
+      "clip_acc_ci_high": 0.908
+    }
+  ],
+  "best_model": "Early fusion (logistic)",
+  "permutation_test": {
+    "observed_accuracy": 0.575,
+    "null_mean": 0.174,
+    "p_value": 0.005,
+    "n_perm": 200
+  },
+  "year_regression": {
+    "mae_years_edition": 11.8,
+    "baseline_mae": 25.1,
+    "mae_years_clip": 12.9
+  },
+  "top_importance": [
+    {
+      "feature": "colorfulness",
+      "modality": "Image",
+      "importance": 0.0901
+    },
+    {
+      "feature": "saturation",
+      "modality": "Image",
+      "importance": 0.0824
+    },
+    {
+      "feature": "pillarbox",
+      "modality": "Image",
+      "importance": 0.0823
+    },
+    {
+      "feature": "green_ratio",
+      "modality": "Image",
+      "importance": 0.0564
+    },
+    {
+      "feature": "flatness",
+      "modality": "Audio",
+      "importance": 0.0436
+    },
+    {
+      "feature": "loudness_db",
+      "modality": "Audio",
+      "importance": 0.0432
+    },
+    {
+      "feature": "mfcc7",
+      "modality": "Audio",
+      "importance": 0.0426
+    },
+    {
+      "feature": "hue_entropy",
+      "modality": "Image",
+      "importance": 0.0412
+    }
+  ],
+  "modality_importance": {
+    "Audio": 0.136,
+    "Image": 0.257
+  },
+  "degradation_test": {
+    "era": "2010-26",
+    "n_clips": 132,
+    "median_year_shift": 1.0,
+    "share_reclassified_older": 0.038,
+    "share_original_correct": 0.947
+  },
+  "n_clips": 438,
+  "n_editions": 23,
+  "eras": [
+    "1930-38",
+    "1950-66",
+    "1970-86",
+    "1990-2006",
+    "2010-26"
+  ],
+  "clips_per_era": {
+    "1930-38": 50,
+    "1950-66": 101,
+    "1970-86": 68,
+    "1990-2006": 87,
+    "2010-26": 132
+  },
+  "text_used_in_models": false,
+  "figures": [
+    "fig01_dataset_overview.png",
+    "fig02_frame_montage.png",
+    "fig03_dominant_palettes.png",
+    "fig04_image_features_by_era.png",
+    "fig05_image_trends.png",
+    "fig06_audio_features_by_era.png",
+    "fig07_audio_spectrum_by_era.png",
+    "fig08_dominant_pitch.png",
+    "fig09_rule_based_labels.png",
+    "fig10b_speech_by_era.png",
+    "fig11_feature_effects.png",
+    "fig12_feature_correlation.png",
+    "fig13_pca.png",
+    "fig14_model_comparison.png",
+    "fig15_confusion_matrix.png",
+    "fig16_year_prediction.png",
+    "fig17_feature_importance.png",
+    "fig18_degradation_test.png",
+    "fig19_permutation_test.png"
+  ]
+}
